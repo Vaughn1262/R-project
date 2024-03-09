@@ -6,9 +6,7 @@ I have multiple graphs that can be created by highlighting everything in the cur
 
 My purpose in writing these programs was to learn R and hopefully to help others to start to understand the unique nature of this language. It was also a fun way with visualiztions that I could look at and see how to make different visualizations using R code.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XwDcAnsssUE)
 
 # Development Environment
 
